@@ -1,2 +1,2 @@
-BotStatus=DISABLED;
+BotStatus=ENABLED;
 The Bot Now Close For Public
