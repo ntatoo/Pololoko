@@ -1,2 +1,2 @@
 BotStatus=ENABLED;
-The Bot Now Close For Public
+The Bot Now Close For Public,LOL
